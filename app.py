@@ -22,7 +22,7 @@ menu = {
         "Lẩu Thái hải sản": 300000,
     },
     "Thức uống": {
-        "Coca Cola": 20000,
+        "Coca Cola": 20000,"TRÁI CÂY THEO MÙA": 30000
         "Trà sữa SV": 70000,
         "Trà Đào Cam Sả": 35000,
         "Cà Phê Sữa": 25000,
